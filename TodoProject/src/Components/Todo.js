@@ -6,7 +6,7 @@ export default class Todo extends Component {
     this.state = {
       tasks: [
         { id: 1, task: "Revise JS" },
-        { id: 2, task: "Study DSA Level-1" },
+        { id: 2, task: "Revise DSA Level-1 & Dev" },
       ],
       curTask: "",
     };
